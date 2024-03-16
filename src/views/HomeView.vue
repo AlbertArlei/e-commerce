@@ -1,9 +1,7 @@
-<script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
-
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+<p class="bg-zinc-700">asd</p>
 </template>
+
+<script setup lang="ts">
+
+</script>
